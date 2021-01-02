@@ -12,7 +12,7 @@ OpenCV dependencies:
 
 # Buy Me A Coffee
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/jairajjangle001)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/jairajjangle001/usd)
 
 # Support my open source software development:
 
