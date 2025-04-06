@@ -5,7 +5,8 @@ Program for Real time camera feed video stabilization
 
 ## C++ OpenCV Dependencies
 
-```-lopencv_core 
+```
+-lopencv_core 
 -lopencv_imgcodecs 
 -lopencv_highgui 
 -lopencv_imgproc
